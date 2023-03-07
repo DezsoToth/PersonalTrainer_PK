@@ -155,6 +155,12 @@ h4 {
     
 }
 
+.difference-container-text {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
 .feedback {
     display: flex;
     flex-direction: column;
