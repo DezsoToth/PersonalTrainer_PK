@@ -446,7 +446,7 @@ h4 {
 
 }
 
-@media only screen and (max-width: 1000px) {
+@media only screen and (max-width: 992px) {
     .introduction-container h1 {
         font-size: 60px;
     }
@@ -475,7 +475,7 @@ h4 {
 }
 
 
-@media only screen and (max-width: 800px) {
+@media only screen and (max-width: 768px) {
     .video-container {
         height: 60vh;
     }
@@ -516,7 +516,7 @@ h4 {
 
 
 
- @media only screen and (max-width: 600px) {
+ @media only screen and (max-width: 576px) {
     .video-container {
         height: 50vh;
     }
